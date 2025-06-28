@@ -1,8 +1,8 @@
-#Programa Desenvolve Grupo o Boticário.  
+# Programa Desenvolve Grupo o Boticário.  
 
-##Neste repositório, compartilho meus aprendizados e projetos desenvolvidos durante o bootcamp FullStack do Grupo Boticário (Jun-Out/2025).  
+## Neste repositório, compartilho meus aprendizados e projetos desenvolvidos durante o bootcamp FullStack do Grupo Boticário (Jun-Out/2025).  
 
-Foco no desenvolvimento de habilidades práticas em:
+### Foco no desenvolvimento de habilidades práticas em:
 
 Front-end: React, Redux, HTML/CSS moderno
 
