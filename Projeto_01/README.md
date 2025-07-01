@@ -4,7 +4,7 @@ Neste projeto, os alunos aplicarão os conhecimentos de HTML e CSS acumulados at
 Uma particularidade deste projeto é que as entradas do diário serão adicionadas diretamente no código fonte HTML, servindo como prática de estruturação de conteúdo estático. Layouts com Flexbox ou Grid são incentivados para organizar os elementos na página.
 - Como desafios extras (opcionais), exploraremos a implementação de um modo escuro (Dark Mode) automático.
 
-#### Conceitos a aplicar: HTML semântico (<article>, <section>, <header>, <footer>, <time>, etc.)
+#### Conceitos a aplicar: HTML semântico (article, section, header, footer, time, etc.)
 - Estrutura HTML completa, linkagem de CSS externo, estilização com CSS (cores, fontes, espaçamentos, bordas), layout com Flexbox e/ou Grid, (Opcional) CSS Variables, (Opcional) Media Query prefers-color-scheme.
 
 #### Atividade Principal: 
@@ -15,7 +15,7 @@ Uma particularidade deste projeto é que as entradas do diário serão adicionad
 ### Objetivos
 
 #### Os alunos deverão ser capazes de estruturar conteúdo de forma semântica usando HTML:
-- Aplicar tags como <main>, <article>, <header>, <footer>, <time>, <h2>, <p> de forma apropriada para criar entradas de diário estáticas.
+- Aplicar tags como main, article, header, footer, time, h2, p de forma apropriada para criar entradas de diário estáticas.
 - Os alunos deverão ser capazes de estilizar uma página web usando CSS:
 - Aplicar propriedades de estilo (cores, fundos, fontes - incluindo Google Fonts, margens, preenchimentos, bordas) para criar uma aparência visual agradável.
 - Utilizar Flexbox e/ou Grid para controlar o layout geral da página e o arranjo das entradas do diário.
