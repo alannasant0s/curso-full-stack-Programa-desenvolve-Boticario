@@ -1,0 +1,26 @@
+<style>
+    .introducao {
+        text-align: center;
+        margin-bottom: 40px;
+        padding: 20px;
+        background-color: #8ea8c3;
+        border-radius: 8px;
+        border: 2px solid rgb(160, 160, 189);
+    }
+
+    .introducao h1 {
+        font-family: 'Playfair Display', serif;
+        color: #23395B;
+        padding: 10px 20px;
+        display: inline-block;
+        border-radius: 8px;
+        margin-bottom: 10px;
+    }
+
+    .subtitulo {
+        font-family: 'Playfair Display', serif, cursive;
+        color: #cbf7ed;
+        font-size: 1.1em;
+        margin-top: 10px;
+    }
+</style>
