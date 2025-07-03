@@ -23,15 +23,16 @@
         font-size: 1.1em;
         margin-top: 10px;
     }
-     button-data {
-        background-color: #23395B;
+button-data {
+        
+        background-color: #5b3423;
         color: #cbf7ed;
         border: none;
         padding: 6px 8px;
         border-radius: 4px;
         cursor: pointer;
         font-size: 1em;
-       
+        
     }
     .entrada {
         
@@ -57,7 +58,7 @@
         
     }
     .reacoes {
-         display: flex;           
+display: flex;           
         justify-content: flex-end; /*-- Alinha o botao na direita -*/
     }
 
