@@ -23,3 +23,12 @@
         font-size: 1.1em;
         margin-top: 10px;
     }
+    button.button-data {
+        background-color: #23395B;
+        color: #cbf7ed;
+        border: none;
+        padding: 8px 10px;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 1em;
+    }
