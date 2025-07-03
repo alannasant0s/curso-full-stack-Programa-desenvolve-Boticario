@@ -23,8 +23,7 @@
         font-size: 1.1em;
         margin-top: 10px;
     }
-    button.button-data {
-        
+     button-data {
         background-color: #23395B;
         color: #cbf7ed;
         border: none;
@@ -32,6 +31,7 @@
         border-radius: 4px;
         cursor: pointer;
         font-size: 1em;
+       
     }
     .entrada {
         
@@ -57,15 +57,14 @@
         
     }
     .reacoes {
-     display: flex;           
-    justify-content: flex-end; /*-- Alinha o botao na direita -*/
+         display: flex;           
+        justify-content: flex-end; /*-- Alinha o botao na direita -*/
     }
 
     .button-reacao {
-    padding: 8px 16px;
-    background-color: #406E8E; 
-
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
+        padding: 8px 16px;
+        background-color: #406E8E; 
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
     }
