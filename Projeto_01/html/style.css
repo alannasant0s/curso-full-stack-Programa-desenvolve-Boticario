@@ -56,4 +56,16 @@
         font-family: 'Arial', serif, cursive;
         
     }
-    
+    .reacoes {
+     display: flex;           
+    justify-content: flex-end; /*-- Alinha o botao na direita -*/
+    }
+
+    .button-reacao {
+    padding: 8px 16px;
+    background-color: #406E8E; 
+
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    }
