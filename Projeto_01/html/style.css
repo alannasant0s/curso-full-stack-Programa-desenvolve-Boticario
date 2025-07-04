@@ -18,12 +18,12 @@
     }
 
     .subtitulo {
-        font-family: 'Arial', serif, cursive;
+        font-family: 'Arial', serif, sans-serif;
         color: #cbf7ed;
         font-size: 1.1em;
         margin-top: 10px;
     }
-button-data {
+    button-data {
         
         background-color: #5b3423;
         color: #cbf7ed;
@@ -58,9 +58,9 @@ button-data {
         
     }
     .reacoes {
-display: flex;           
-        justify-content: flex-end; /*-- Alinha o botao na direita -*/
-    }
+        display: flex;           
+        justify-content: flex-end; /*-- Alinha o botao de reação na direita -*/
+        margin-top: 10px;}
 
     .button-reacao {
         padding: 8px 16px;
@@ -68,4 +68,5 @@ display: flex;
         border: none;
         border-radius: 4px;
         cursor: pointer;
+        
     }
