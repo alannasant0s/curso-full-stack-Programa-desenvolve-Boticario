@@ -23,16 +23,13 @@
         font-size: 1.1em;
         margin-top: 10px;
     }
-    button-data {
-        
-        background-color: #5b3423;
+    .button-data {
+        background-color: #7a7978;
         color: #cbf7ed;
         border: none;
         padding: 6px 8px;
         border-radius: 4px;
-        cursor: pointer;
-        font-size: 1em;
-        
+        cursor: pointer;  
     }
     .entrada {
         
@@ -51,9 +48,8 @@
     }
     .rodape {
         text-align: center;
-        padding: 10px;
-        background-color: #23395B;
-        color: #cbf7ed;
+        
+        color: #1b463c;
         font-family: 'Arial', serif, cursive;
         
     }
