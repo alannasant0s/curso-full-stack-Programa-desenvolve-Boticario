@@ -1,5 +1,12 @@
 
-    .introducao {
+    .main{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        background-color: #a4cbf3;
+        border-radius: 0;
+    }
+        .introducao {
         text-align: center;
         margin-bottom: 40px;
         padding: 20px;
@@ -79,10 +86,4 @@
         background-color: #23395B;
         color: #cbf7ed;
     }
-    main{
-        width: auto;
-        margin: auto;
-        padding: 100px;
-        background-color: #a4cbf3;
-        border-radius: 8px;
-    }
+   
