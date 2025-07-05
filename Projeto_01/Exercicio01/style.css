@@ -76,3 +76,10 @@
         background-color: #23395B;
         color: #cbf7ed;
     }
+    main{
+        width: auto;
+        margin: auto;
+        padding: 100px;
+        background-color: #a4cbf3;
+        border-radius: 8px;
+    }
