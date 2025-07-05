@@ -48,11 +48,13 @@
         border: 2px solid rgb(160, 160, 189);
     }
     .rodape {
-        text-align: center;
-        color: #1b463c;
-        font-family: 'Arial', serif, cursive;
-
+    position: absoluted; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
     }
+
     .reacoes {
         display: flex;           
         justify-content: flex-end; /*-- Alinha o botao da reação na direita --*/
