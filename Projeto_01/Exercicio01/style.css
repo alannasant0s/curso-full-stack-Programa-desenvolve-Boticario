@@ -9,7 +9,7 @@
     }
 
     .introducao h1 {
-        font-family: 'Playfair Display', serif;
+        font-family: 'Arial', serif, sans-serif;
         color: #23395B;
         padding: 10px 20px;
         display: inline-block;
@@ -18,9 +18,10 @@
     }
 
     .conteudo-entrada {
-    margin-bottom: 15px; 
-    line-height: 1.6; 
-    color: #333; /
+        font-family: 'Arial', serif, sans-serif;
+        margin-bottom: 15px; 
+        line-height: 1.6; 
+        color: #333; /
 
     }
 
@@ -48,15 +49,15 @@
     }
     .rodape {
         text-align: center;
-        
         color: #1b463c;
         font-family: 'Arial', serif, cursive;
-        
+
     }
     .reacoes {
         display: flex;           
-        justify-content: flex-end; /*-- Alinha o botao de reação na direita --*/
-        margin-top: 10px;}
+        justify-content: flex-end; /*-- Alinha o botao da reação na direita --*/
+        margin-top: 10px;
+    }
 
     .button-reacao {
         padding: 8px 16px;
